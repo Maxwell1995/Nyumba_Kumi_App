@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470369747701",
+    "project_id": "nyumbakumiapp-96f7b",
+    "storage_bucket": "nyumbakumiapp-96f7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470369747701:android:85afcdebf1717c7dd9bbbc",
+        "android_client_info": {
+          "package_name": "com.example.nyumbakumiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470369747701-6j2l5ulk2hh3tcls75bsue1v2fn04b08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyeVOG3E_iQRl2tKZxQEthvWZYdMgR8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470369747701-6j2l5ulk2hh3tcls75bsue1v2fn04b08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
